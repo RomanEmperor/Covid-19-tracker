@@ -13,6 +13,7 @@
 		F2DD331924FFB48400CDC1CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2DD331824FFB48400CDC1CA /* Assets.xcassets */; };
 		F2DD331C24FFB48400CDC1CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2DD331B24FFB48400CDC1CA /* Preview Assets.xcassets */; };
 		F2DD331F24FFB48400CDC1CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2DD331D24FFB48400CDC1CA /* LaunchScreen.storyboard */; };
+		F2DD332724FFC54000CDC1CA /* CountriesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DD332624FFC54000CDC1CA /* CountriesList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2DD331B24FFB48400CDC1CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2DD331E24FFB48400CDC1CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2DD332024FFB48400CDC1CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2DD332624FFC54000CDC1CA /* CountriesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F2DD331224FFB48000CDC1CA /* AppDelegate.swift */,
 				F2DD331424FFB48000CDC1CA /* SceneDelegate.swift */,
 				F2DD331624FFB48000CDC1CA /* ContentView.swift */,
+				F2DD332624FFC54000CDC1CA /* CountriesList.swift */,
 				F2DD331824FFB48400CDC1CA /* Assets.xcassets */,
 				F2DD331D24FFB48400CDC1CA /* LaunchScreen.storyboard */,
 				F2DD332024FFB48400CDC1CA /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				F2DD331324FFB48000CDC1CA /* AppDelegate.swift in Sources */,
 				F2DD331524FFB48000CDC1CA /* SceneDelegate.swift in Sources */,
+				F2DD332724FFC54000CDC1CA /* CountriesList.swift in Sources */,
 				F2DD331724FFB48000CDC1CA /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
